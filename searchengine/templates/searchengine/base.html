@@ -1,0 +1,82 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		{% include "searchengine/head_content.html" %}
+		<title>
+			{% block page_title %}Search Engine{% endblock %}
+		</title>
+		<style>
+			{# CSS for base.html page #}
+
+			{# CSS classes that are commanly used accross all pages. #}
+			.space-large {
+				padding-top: 80px;
+				padding-bottom: 80px;
+			}
+
+			{# This CSS not working when placed in style.css for some reason #}
+
+		</style>
+
+		<script>
+			{# Depends on Jquery and jquery.sticky.js file in static #}
+			$(document).ready(function() {
+			});
+		</script>
+
+		{% block custom_css %}{% endblock %}
+		{% block custom_js %}{% endblock %}
+	</head>
+
+	<body>
+
+		{% block messages_alert %}
+			{% if messages %}
+				<ul class="messages list-unstyled">
+					{% for message in messages %}
+					<li class="alert alert-{{ message.tags }} fade in">
+						<a href="#" class="close" data-dismiss="alert">&times;</a>
+						<strong class="text-uppercase">{{ message.tags }}!</strong> {{ message }}
+					</li>
+					{% endfor %}
+				</ul>
+			{% endif %}
+		{% endblock %}
+
+		{% block header_content %}<header>
+			<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+				<a class="navbar-brand" href="#">Search Engine</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarNav">
+					<ul class="navbar-nav mr-auto">
+						<li class="nav-item active">
+							<a class="nav-link" href="{% url 'searchengine:index' %}">Home</a>
+						</li>
+					</ul>
+					<form class="form-inline my-2 my-lg-0 mr-2">
+						<!--<input class="form-control mr-sm-2 form-control-lg" type="search" placeholder="Search" aria-label="Search">-->
+						<button class="btn btn-outline-default my-2 my-sm-0" type="submit">Login</button>
+					</form>
+				</div>
+			</nav>
+		</header>{% endblock %}
+
+		<main>{% block main_content %}
+		{% endblock %}</main>
+
+		<footer>{% block footer_content %}
+			<div class="footer fixed-bottom bg-dark text-light pt-3">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col">
+							<p class="text-center"><span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2018. All rights reserved.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		{% endblock %}</footer>
+	</body>
+</html>
