@@ -1,0 +1,42 @@
+11I ICTRobuZrishN E&ldquo;HAh. !
+simulators with the players on one team trying to shoot down the players on the
+opposing team. Virtual worlds provide a persistent setting in which thousands of
+users can experience a shared reality with three-dimensional graphics.
+Our last category is ubiquitous computing, in which computing is embedded
+into everyday life, as in the vision of VMark wWeiser ( I99 l ). Vlany homes are al-
+ready wired with security systems that include door and window sensors, and
+there are many more sensors that can be folded in to a smart home monitor, such
+as energy consumption. Your electricity, gas and water meters could also report
+usage over the network. This would save money as there would be no need to
+send out meter readers. And your smoke detectors could call the fire department
+instead of making a big noise (which has little value if no one is home). As the
+cost of sensing and communication drops, more and more measurement and re-
+porting will be done with networks.
+Increasingly, consumer electronic devices are networked. For example, some
+high-end cameras already have a wireless network capability and use it to send
+photos to a nearby display for viewing. Professional sports photographers can
+also send their photos to their editors in real-time, first wirelessly to an access
+point then over the Internet. Devices such as televisions that plug into the wall
+can use power-line networks to send information throughout the house over the
+wires that carry electricity. It may not be very surprising to have these objects on
+the network, but ohjects that we do not think of as computers may sense and com-
+municate information too. For example, your shower may record water usage.
+give you visual feedback while you lather up, and report to a home environmental
+monitoring application when you are done to help save on your water bill.
+A technology called RFI3 (Radi0 Frequency IDentification) will push this
+idea even further in the future. RFID tags are passive (i.e., have no battery) chips
+the size of stamps and they can already be affixed to books, passports, pets, credit
+cards, and other items in the home and out. This lets R FID readers locate and
+communicate with the items over a distance of up to several meters, depending on
+the kind of RFID. Originally, RFID was commercialized to replace barcodes. It
+has not succeeded yet because barcodes are free and RFID tags cost a few cents.
+Of course, RFID tags offer much more and their price is rapidly declining. They
+may turn the real world into the Internet of things (I&rsquo;I&rsquo;U. 2005).
+1.I.3 Mohile I Isers
+VMobile computers, such as laptop and handheld computers, are one of the
+fastest-growing segments of the computer industry. Their sales have already
+overtaken those of desktop computers. wVhy would anyone want one? People on
+the go often want to use their mobile devices to read and send email, tweet, watch
+movies, download music, play games, or simply to surf the wVeb for information.
+They want to do all of the things they do at home and in the office. Naturally, they
+want to do them from anywhere on land, sea or in the air.

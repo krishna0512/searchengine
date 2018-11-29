@@ -1,0 +1,34 @@
+the robotic hand to not only pick up the ball but also throw it back at me. (You can see this robot
+picking up the ball in the image section.) The professor was so pleased with my performance that he
+introduced me to his larger creation, an adaptive arm that could move 360 degrees and was as tall as
+a full-grown human being. This, he told me, was the future of robotics
+Such robots can be used for various functions that are risky or difficult for humans, including going to
+dangerous locations (like those affected by natural calamities, radiation, mines, deep-sea
+exploration), managing human threats (like terrorist attacks) or even travelling to outer space. Robots
+already have a strong application in the field of industry, right from building airplanes to nano-level
+material science, making very small circuit-level connections on a microchip invisible to the human
+eye
+Professor Sethu told us that the next generation of robots would be extremely smart. They would be
+able to understand the environment, analyse the assigned tasks and then. Using computation. determine
+the best course of action to achieve the goal. To demonstrate what this meant he guided all of us to
+he ground floor Pausing at a door, he casually mentioned that we would be going to the football
+field. A football field in a lab of robots?All of us were intrigued.The professor pushed open the
+door and led us into a large room which had football field filled with players wearing two different
+coloured uniforms. The only difference was that they were not six-foot humans, but two-foot robots!
+We were all surprised and eagerly looked forward to watching this match
+Professor sethu hit the start button and the computer sounded a whistle for the robots to get into
+evenly matched contest At one point,the blue team's striker aimed a long,powerful shot towards the
+goal and the ball evaded the diving goalkeeper of the rd team.We all gasped but the ball hit the
+goalpost and bounced back into the game. The goalkeeper, who had fallen, got up. The match
+continued for five minutes until.finally the red team's striker hit goal right from the middle of the
+field,theyby winning the match All the red robots started jumping in joy.I applauded for them
+feeling hapyy that the next generation of robots would not just be machines but also loyal teammate?
+-much like a human football team
+This is a step forward in the field of robotics-humanity&rsquo; s long-cherished dream to make smarter
+machines which can enhance productivity, reduce wastage and ensure precision.
+Let us now go into the specifics. As you may know, any typical robot has six essential parts
+I. A moveable body: This may include wheels, belts or even limbs which are connected by
+some form of Joints or other types of moveable segments.
+2. An actuator: Robots may be activated using an electric motor, a hydraulic system, a
+pneumatic or gas-operated system or a combination of all three.
+3. Power bank: Like any other machine, a robot needs a power source to drive its actuators.

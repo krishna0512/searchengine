@@ -1,0 +1,19 @@
+Electric robots use batteries or extension wires plugged into the standard AC system
+Hydraulic robots need pumps to pressurize the hydraulic fluid, and pneumatic robots need air
+compressors. Some robots may also run on fuels like petrol and compressed natural gas
+(CNG). Scientists are working on creating nuclear-powered robots for outer space
+applications-an enterprise which is now in the design stage.
+4. An electrical circuit: This powers the electric motor, solenoid or valves that control the
+hydraulic or pneumatic systems.
+5. A reprogrammable brain (which is actually a computer): The computer acts as the head of
+the robot and controls all other components. To change the robot&rsquo;s behaviour, to increase its
+speed, improve its accuracy or even modify Its basic functionalities, you just have to
+reprogramme the computer.
+6. A sensory system: While most robots are designed for preset roles, some robots are now
+created to react to the environment and the presence of humans or even other robots. These
+robots have the ability to collect information about their environment,and react to it. This may
+be in the form of a camera, infrared sensors, sound sensors and heat sensors The information
+gathered by thee Sensors is sent to the central computer to determine What reaction is
+required from the robot.
+In human beings, these six parts would roughly correspond to the body; our muscles; air, water and
+food that power us; our veins and nerves; the brain; and our sense organs

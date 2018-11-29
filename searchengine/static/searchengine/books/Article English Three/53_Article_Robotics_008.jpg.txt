@@ -1,0 +1,32 @@
+standard ruler. Look at its millimeter markings; notice the spacing between them-Just enough for an
+ant to walk through, wouldn&rsquo;t you say ? Now, divide It into a thousand pieces, Of course, you cannot
+do that on paper, but just imagine how small each such piece will be. This is I micrometre
+Nanorobots measure in this range, some even smaller than this. So far, nanorobots are only
+biological, usually made of protein. Non-biological nanorobots are still in the realm of theory and
+may take some ten years to realize
+These robots currently have an application In bioscience. When nanorobots are Injected into a patient,
+they diagnose and deliver treatment exclusively in the affected area and themselves get digested as
+they are basically DNA- or protein-based products. I saw the product sample in a lab in South Korea
+where the best minds with multiple technologies work with the target of finding out-of-the-box
+solutions
+Such nanorobots will also see tremendous application in material science, where they will detect and
+repair minute Internal flaws In machines, buildings and even spacecraft
+How is a humanoid different from a robot?
+The humanoid is a special form of robot which looks like a human being. They usually stand on two
+feet have two hands which can bend near the elbow carry two cameras (resembling eye) and a 
+rotating head and even fingers and thumbs. The can walk on two legs , tough they are usually slower
+than humans and find it difficult to get up it they fall. They most famous of humanoids is ASIMO
+which stands  for Advanced seep in Innovative Mobility. Developed by Honda, it  is about 4 feet and 3
+inches tall and weighs about 48 kg--so it looks like a twelve-year-old it can recognize moving
+objects, postures, gestures, voices andcaces. It can interact with humans, in so far as it will recognize
+you and call you by your name and wave back if you wave at it. The newest version of ASIMO can
+dance and conduct an orchestra.
+In 2005 Toyota came up with a set of humanoids called the Toyota Partner Robots. They can play
+drums, trumpets and even the violin.
+What are bio-inspired robots?
+The humble fact of science remains that while it has achieved a lot in terms of technology, there is
+still lots more to learn and improve from nature itself. No human invention has come any where close
+to replicating the mechanics of our eyes and our muscles, nature&rsquo;s own biosensors and bio-actuators.
+What can we learn from the special qualities of biomaterials like the spider&rsquo;s web? What allows a
+centipede to walk on virtually any kind of surface? How does a lizard climb vertical surfaces? How
+can it walk upside down on ceilings? Will answers to these help us solve real-world engineering

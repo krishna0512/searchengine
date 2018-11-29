@@ -1,0 +1,29 @@
+CHAPTER 1
+ROBOTICS
+In May 2Ol4, my friend Srijan and I visited the University of Edinburgh in Scotland. It is a beautiful
+country known for its mountains, orchards and castles. It is also home to many celebrated centres of
+learning. The University of Edinburgh, set up over 440 years ago, has been at the forefront of learning
+and research from the time of its inception and is today among the top twenty universities of the
+World.
+Among its distinguished alumni are Charles Darwin,Sir Alexander Graham Bell,the surgeon Joseph
+Lister, the physicist James Maxwell and the mathematicial Thomas Bayes Walking down the aisles
+of the university,we were grected by smiling portraits of these pioneering scientists,carefully
+arranged next to each other,slightly tilted downwards.It almost seemed like they were giving
+confidence to the students and the faculty at the university
+The university has some of the most advanced centres of science and learning in the world.We
+visited many of them, but the one which left the most lasting impression on me was the school for
+lnformatics. I was greeted there by professor sethu vijaykumar,a professor robotics. who said
+that he'd take us on a two-hour journey into the future of robotics.It was indeed an exciting thought
+and we couldn&rsquo;t wait to hear more
+Professor sethu took us to his lab, Where some of his inventions and innovations were on display
+One which particularly interested me was a human-size hand, yellow and black in colour. I went
+oloser to It and studied it carefully. Its features were very human-like, it had fingers with three
+segments, a palm, wrist, forearm and even an opposable thumb. It seemed so human that Srijan shook
+hands with it
+Enthused by our curiosity, Professor Sethu smiled and made me sit on a chair by his side. He fastened
+a small black strap near my elbow. Pressing a tiny black button by the side of the hand-like device, he
+asked me to move my palm around the wrist in a circular motion. To everybody&rsquo;s surprise, as soon as
+I performed this action, the metallic hand replicated the motion. I waved my hand and it waved back
+at me. Then, Professor Sethu set a tough challenge before me. He placed a ball on the table and asked
+me to pick it up using the robotic hand. I tried out a few motions and soon understood the dynamics of
+how my human arm was now connected to the metalllic robotic hand. In a minute, I was able to guide

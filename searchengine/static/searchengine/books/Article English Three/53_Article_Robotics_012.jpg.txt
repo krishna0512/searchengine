@@ -1,0 +1,37 @@
+biologist, I thought the closest thing to understanding human motion capabilities was to create      
+machines that can closely mimic them. This naturally led me to work in areas that were at the
+interface of machines and humans, leading to the prosthetics research.
+Q. W hat is your typical day like?
+Surprisingly, a research scientist like me does not have a typical day, every day brings exciting new
+challenges! Usually I start my day with a cup of coffee, and deal with urgent correspondence from my
+office in the informatics department. During term time, I teach a class of senior undergraduate and
+postgraduate students twice a week in the mornings on the subject of robotics and machine learning. I
+have regular lab meetings with my PhD students and postdoctoral researchers in my group and
+discuss weekly progress on research agendas and set new goals. I also have one-on-one meetings to
+discuss research topics on the whiteboard with my students in my office. A significant part of my day
+is spent implementing solutions on hardware. In between, I spend time writing up the results of our
+work in research papers as Well as discussing Ways to transform some of these ideas into novel
+products with commercial companies. I take a break for lunch in the afternoon, which is a fun affair
+where researchers from different fields informally chat about everything under the sun.I catch up with
+my secretaries on issues that I need to decide on in my role as institute director.I also chair institute
+faculty meetings to monitor research and progress of phD students my tole as a professor, I also
+have to travel extensively This includes presenting papers at international conferences attending
+Project review meetings for our internationally funded projects as well as serving the community by
+being on peer review panels Most of these trips are to really exciting cities in Europe like Lisbon 
+Barcelona. Paris. Zurich,etc.,and there are some long-haul trips to the USA and Japan too However,
+sadly. I am usually too busy to do any sightseeing! Sometimes I have to work weekends and late into
+the night to meet conference and project deadlines
+Q. What is the most important quality needed to be a successful robotics engineer?
+One needs to possess an analytic thinking mind and develop strong fundamentals in science subjects
+such as mathematics and physics. Another very important quality is perseverance. Robotics involves
+creating conceptual solutions to real-world problems and then implementing them on real machines!
+The path from concepts and ideas to design, implementation on hardware (electronics, mechanics)
+and testing in the real world is filled with many steps and hurdles. It is easy to feel disappointed
+when a concept that seems to work perfectly on paper does not meet expectations due to mismatch in
+specifications and complex real-world conditions. Successful roboticists are able to overcome
+multiple setbacks on the road to success. Sometimes complex problems have relatively simple
+solutions. The quality to see through the clutter and complexity and discover simple breakthrough
+principles is another invaluable quality for a robotic engineer. Surprisingly, people with good design
+and artistic skills have a big role to play in robotics as well since it is not just about the mechanics,
+Good robots need to be compact, attractive and packaged appropriately to work in close contact with
+humans.

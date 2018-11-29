@@ -1,0 +1,35 @@
+devices that minimize your energy costs. It is expected that within the next seven or eight
+years, all basic household chores will be performed by robots. Driverless cars, which are
+mapped to the central traffic network, will replace conventional vehicles. These cars will
+automatically choose the most fuel-efficient gears and the least time-consuming routes-
+without ever breaking traffic rules
+Disaster relief robots: In the near future, perhaps within the next five years,robots will play
+the most significant role in providing relief to people affected by calamities such as floods,
+earthquakes, volcanic eruptions, hurricanes and even terrorism. Let us take the example of the
+prototype of the SCHAFT robot, an award-winning robot presented by Google at the 2Ol 3
+DARPA Robotics Challenge, which was organized by the US Defense Advanced Research
+Projects Agency (DARPA). (You can see the SCHAFT robot in the image section.)A human-
+like robot called S-One could perform several autonomous tasks, it was able to navigate
+disaster-prone areas and work with any tools or materials at hand. With the strength of ten
+full-grown people, the robot could lift and clear heavy debris during rescue operations. The
+robot has long arms and a squat torso,weighs over 85 kg,is 4'10" call and is capable of
+moving at a speed of two kilometres an hour. s-One has mastered skills such as operating
+drills, manipulating safety valves and turning a doorknob,a rare knack in robots. Imagine how
+quickly such a team of schafts could rescue people trapped in earthquakes or major fires!
+6. Outer space robots: Outer space is an unexplored): dangerous,radiation-prone area, posing
+unknown threats to humans.Even when humans are sent into space,they carry with them an
+elaborate life-support system,including oxygen and food,which limits the amount of time they
+can spend in space.with none of the wants and vulnerabilities that human have,intelligent
+robots can be sent to outer space with little risk.space agencies such as NASA and ISRC
+have, of course, their fair share incredible robots. The one that really stands out is the Mars
+Pathfinder mission and its rover sojourner.The main purpose of this mission was to
+demonstrate the kind of technology required to send an efficient,free-ranging robot to Mars in
+a relatively cost-effective way. The Pathfinder managed to enter Mars&rsquo;s atmosphere with a
+parachute and airbags for protection,and the Sojourner sent plenty of useful data about the
+red planet back to Earth. Now India has successfully managed to send Mangalyaan to plant
+its own robot on Mars
+CONVERSATIONS WITH A SCIENCE TEACHER
+How much does a robot cost?
+Robots can vary in cost depending on their size, functions and many other parameters. Typically, a
+robot with the ability to sense and react is costlier than those that cannot. Robotic arms, typically used
+in industrial application, cost between Rs 25 lakhs to one crore. The space application robot
