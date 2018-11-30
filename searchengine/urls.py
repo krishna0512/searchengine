@@ -8,4 +8,5 @@ urlpatterns = [
     path('index/', views.index, name='index'),
     path('ajax/search/', views.ajax_search, name='ajax_search'),
     path('search/', views.search, name='search'),
+    path('book/<int:book_id>', views.book, name='book'),
 ]
