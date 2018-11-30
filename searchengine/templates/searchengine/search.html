@@ -2,13 +2,12 @@
 {% load static %}
 
 {% block main_content %}
-<div class="space-large"></div>
-<div class="container">
+<div class="container mt-3">
 	<div class="row">
 		<div class="col text-center">
 			<form action="{% url 'searchengine:search' %}" method="GET">
 				<div class="input-group input-group-lg">
-					<input type="text" class="form-control" placeholder="Search" name="q">
+					<input type="text" class="form-control" placeholder="Search" name="q" value="{{ q }}">
 					<div class="input-group-append">
 						<button class="btn btn-outline-info" type="submit">Search</button>
 					</div>
@@ -16,5 +15,20 @@
 			</form>
 		</div>
 	</div>
+</div>
+<hr>
+<div class="container mt-3">
+	{% if results %}
+	{% for res in results %}
+	<div class="row mt-2">
+		<div class="col">
+			{{ res.pagetitle }}
+		</div>
+		<div class="col">
+			{{ res.book.title }}
+		</div>
+	</div>
+	{% endfor %}
+	{% endif %}
 </div>
 {% endblock %}

@@ -8,7 +8,7 @@ class Book(models.Model):
     isbn = models.CharField(max_length=20, blank=True)
     publisher = models.CharField(max_length=200, blank=True)
     editor = models.CharField(max_length=200, blank=True)
-    description = models.TextField(max_length=5000, blank=True)
+    description = models.TextField(blank=True)
     language = models.CharField(max_length=20, blank=True)
 
     def __repr__(self):
@@ -21,4 +21,4 @@ class Page(models.Model):
     # pagetitle stores the name of the text file from which the body contents come from.
     pagetitle = models.CharField(max_length=100, default='')
     book = models.ForeignKey(Book, on_delete=models.CASCADE, related_name='pages')
-    content = models.TextField(max_length=5000)
+    content = models.TextField()
