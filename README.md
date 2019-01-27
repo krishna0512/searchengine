@@ -4,6 +4,10 @@ Search Engine is a local project for OCR portal (IIITH) , collection of data of 
 
 ## Installation
 
+
+First step is to download elasticsearch and then django.
+Elasticsearch is an open source search engine which is known for its fast indexing and ability to retrieve ifferent languages like urdu , hindi , german , french , punjabi etc...
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
@@ -14,6 +18,8 @@ pip install -r requirements.txt
 
 Install postgres using apt or yum
 then, follow following steps to configure the postgres database.
+
+Or to host it use dbsqlite3(preon)
 
 ```bash
 sudo su - postgres
