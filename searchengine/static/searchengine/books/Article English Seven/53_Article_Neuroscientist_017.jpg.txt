@@ -1,0 +1,13 @@
+Dog                 16,00,00,00
+Cat                   30,00,00,000   
+Horse               1,20,00,00,000
+Gorilla               4,30,00,00,000
+Chimpanzee      5,50,00,00,000
+Dolphin              5,80,00,00,000
+Whale                10,50,00,00,000
+Human               23,00,00,00,000
+Notice that going by the count of neurons in the cerebral cortex, a human is twice as intelligent as a
+whale, a cat twice as smart as a dog, while chimpanzees are amongst the smartest monkeys.
+How can I become a neuroscientist?
+Neuroscience is a very wide field and depending on what specific aspect one wants to work with, it
+can cover dimensions of medical science, engineering and psychology.

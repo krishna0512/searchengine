@@ -1,0 +1,37 @@
+yesteryears, like Darwin, Newton and Turing, as well as current world leaders like Stephen Hawkins
+plied their art. My first postdoctoral Job w as at the RIKEN Brain Science Institute, Japan, where
+scientists were trying to understand the functioning of the human brain at various levels. After that, I
+moved to Los Angeles, USA, to work as a faculty member at the University of Southern California in
+2000 and since the end of 2003, I have been on the faculty at the University of Edinburgh, UK.
+Edinburgh University was established in 1583 and is the alma mater of many famous scientists like
+James Clerk Maxwell, Joseph Lister, Alexander Graham Bell and Peter Higgs of the Higgs-Boson
+fame. I would say that even after so many years in academia, I have never stopped learning, and the
+more I know, the more I find out about what I do not know yet.
+Q. What exactly do you do?
+I am a professor of robotics at the University of Edinburgh and the director of the Edinburgh Centre
+for Robotics. I am an applied mathematician, computer scientist and roboticist by training. I design
+and build robots that try mine the capabilities of human beings.I use my knowledge of computer
+programming and electronics to develop algorithms to control highly complex, humanoid robots
+Many of the robots that I work with have a human shape,so that eventually they can coexist in a space
+inhabited by humans without having to adapt to our surroundings Our research focuses on there
+aspects.First,we aim to make robots as safe and reliable as possible so that they can assist humans
+as co-workers with difficult,dangerous and cumbersome tasks.Examples of areas of application
+include factory automation and construction,deep sea oil and gas extraction as well as nuclear power
+plants. second, we want to develop autonomous yens technology to make our lives easier and give
+us more time to enjoy with family and friends.Examples include self-driving cars and robot
+technology that can help around the house,such as autonomous vacuum cleaners and lawn mowers
+Finally,I work with doctors and surgeons to develop prosthetic,a kind of robot that is used by
+patients who have had accidents and suffered injuries or lost limbs.By understanding the human
+body works, we are able to restore some capability using robotic hardware.We develop artificial
+limbs for bath the lower arm as well as legs. Our work also applies to situations where robots that
+can crawl or fly may be required to assist during a fire or in natural disasters like tsunamis or
+earthquakes to search for and rescue trapped people.
+Q. What inspired you to take up the field of robotics?
+Since my childhood, I was fascinated by machines or automatic mechanical devices. I have memories
+of playing with spring-wound mechanical toys, getting lost in the bazaars of Delhi, staring at printing
+machines and lathes at roadside factories as well as reading science fiction by authors such as Issac
+Asimov. It was this natural fascination for everything moving and the innate curiosity to understand
+what goes inside the box that provided me with the first inspiration towards robotics. After an
+undergraduate degree in computer engineering, I was curious to see how I could apply developments
+in the field of computers to make smarter robots. I was also fascinated by the human body itself-it is
+an incredibly versatile, multipurpose machine invented by nature. Since I was not a medical doctor or!

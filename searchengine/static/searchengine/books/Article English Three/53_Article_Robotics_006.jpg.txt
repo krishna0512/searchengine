@@ -1,0 +1,27 @@
+Sojourner, used in the Mars mission Pathfinder, cost about S25 million (Rs 70 crores). This is about
+one-third of the price of a passenger airplane like Boeing 737.
+However, small robots can cost Just a few thousand rupees and can even be made at home.
+Will robots take over the world and destroy humanity?
+No. As long as humans have the ability to think, innovate and dream big, robots can never overtake
+humanity. A robot&rsquo;s brain is just a computer which can only do what It is told to do. If there are bugs
+in the computer, one can always sort them out-Just the way an antivirus software cleans a computer
+But still, what if they become stronger and more intelligent than
+humans?
+No, they can only be as strong as we want them to be and do only the things we ask them to do. They
+can certainly never innovate on their own. Don&rsquo;t worry
+What is the most exciting robotics challenge competition around?
+lt i arguably the DARPA Robotic challenge which seeks to promote ideas and designs of semi-
+autonomous robots that can undertake difficult and dangerous tasks in environments unsuitable for
+humans. The competition began in 2012 and its finals were held n December 2014 A robot had to
+perform  the following basic functions to quality for the DARPA Robotic Challenge:
+1. Drive a  utility vehicle at the site
+2. Travel dismounted across rubble
+3.Remove debris blocking an entryway
+4.Open a door and enter a building
+5.Climb an Industrial ladder and traverse an industrial walkway
+6. Use a tool tn break through a concrete pane
+7. Locate and close a valve near a leaking pipe
+8: Conneet a fire hose tn a standpipe and tarn on a valve
+Till date, eleven teams have won a spot in the finals. The purpose of this challenge is to help build
+robots which can save humans from operating in dangerous and life-threatening situations.
+Are there robotic sports competitions?

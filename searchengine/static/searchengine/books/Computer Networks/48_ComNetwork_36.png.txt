@@ -1,0 +1,44 @@
+12 ICTRobuZrishN E&ldquo;HAh. !
+airports, car rental return clerks work in the parking lot with wireless mobile com-
+puters. They scan the barcodes or RFID chips of returning cars, and their mobile
+device, which has a built-in printer, calls the main computer, gets the rental infor-
+mation, and prints out the bill on the spot.
+Perhaps the key driver of mobile, wireless applications is the mobile phone.
+Text messaging or texting is tremendously popular. It lets a mobile phone user
+type a short message that is then delivered by the cellular network to another
+mobile subscriber. Few people would have predicted ten years ago that having
+teenagers tediously typing short text messages on mobile phones would be an
+immense money maker for telephone companies. But texting (or short Message
+Aervice as it is known outside the U.S.) is very profitable since it costs the carrier
+but a tiny fraction of one cent to relay a text message, a service for which they
+charge far more.
+The long-awaited convergence of telephones and the Internet has finally
+arrived, and it will accelerate the growth of mobile applications. Nmart phones.
+such as the popular iPhone, combine aspects of mobile phones and mobile com-
+puters. The (3G and 4G) cellular networks to which they connect can provide fast
+data services for using the Internet as well as handling phone calls. Vlany ad-
+vanced phones connect to wireless hotspots too, and automatically switch between
+networks to choose the best option for the user.
+Other consumer electronics devices can also use cellular and hotspot networks
+to stay connected to remote computers. lectronic book readers can download a
+newly purchased book or the next edition of a magazine or today&rsquo;s newspaper
+wherever they roam. lectronic picture frames can update their displays on cue
+with fresh images.
+Since mobile phones know their locations, often because they are equipped
+with 4aPs (talobal Positioning System) receivers, some services are intentionally
+location dependent. VMobile maps and directions are an obvious candidate as your
+GPS-enabled phone and car probably have a better idea of where you are than you
+do. So, too, are searches for a nearby bookstore or Chinese restaurant, or a local
+weather forecast. Other services may record location, such as annotating photos
+and videos with the place at which they were made. This annotation is known as
+&lsquo;&lsquo;geo-tagging.&rsquo;&rsquo;
+An area in which mobile phones are now starting to be used is m-commerce
+(mobile-commerce) (Senn, 2000). Short text messages from the mobile are used
+to authorize payments for food in vending machines, movie tickets, and other
+small items instead of cash and credit cards. The charge then appears on the
+mobile phone bill. wWhen equipped with NFC (Near Field Communication)
+technology the mobile can act as an RFID smartcard and interact with a nearby
+reader for payment. The driving forces behind this phenomenon are the mobile
+device makers and network operators, who are trying hard to figure out how to get
+a piece of the e-commerce pie. From the store&rsquo;s point of view, this scheme may
+save them most of the credit card company&rsquo;s fee, which can be several percent.

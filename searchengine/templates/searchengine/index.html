@@ -1,0 +1,107 @@
+{% extends "searchengine/base.html" %}
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'searchengine/css/style.css' %}">
+
+
+
+
+{% block custom_js %}
+<script>
+	$(document).ready(function() {
+		$('.dropdown-menu a').click(function() {
+			var x = $(this).text();
+			var y = $(this).attr('id');
+			console.log(y);
+			$(this).parent().parent().children().filter('button').text(x)
+			$(this).parent().parent().children().filter('input').val(y);
+		});
+	});
+</script>
+{% endblock %}
+
+
+{% block main_content %}
+
+<main role="main" class="container main-container" "="">
+    
+<div class="row" style="margin-top: 20px;">
+  <div class="col-12">
+    <h4 style="margin-bottom: 20px;">
+
+      Please search your queries here.
+    </h4>
+  </div>
+</div>
+
+
+
+
+<div class="container mt-3">
+  <div class="row">
+    <div class="col text-center">
+      <form action="{% url 'searchengine:search' %}" method="GET">
+      	<div class="row">
+        <div class="input-group input-group-sm col-md-6 first">
+        	<!-- Book input -->
+            <input type="text" name="q" value="{{ q }}" class="form-control" placeholder="Search for book title or keyword" maxlength="255" id="id_title" autofocus="">
+        </div>
+        <div class="input-group col-md-2 second">
+	        <div class="dropdown">
+	  		<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+	    	Select Language
+	  		</button>
+			  <div class="dropdown-menu">
+			    <a class="dropdown-item" id="english" selected>English</a>
+			    <a class="dropdown-item" id="hindi">Hindi</a>
+          <a class="dropdown-item" id="bengali">Bengali</a>
+
+			  </div>
+			<input type="hidden" name="language" value="">  
+			</div>
+        </div>
+
+        <div class="input-group col-md-2 fourth text-left">
+          <div class="dropdown">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+        Select Type
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" id="author" selected>Author</a>
+          <a class="dropdown-item" id="content">Content</a>
+          <a class="dropdown-item" id="title">Title</a>
+
+        </div>
+      <input type="hidden" name="parameter" value="">  
+      </div>
+        </div>
+        <div class="input-group-append col-md-2 third text-left">
+          	<!-- Submit button -->
+            <button class="btn btn-outline-info" type="submit">Search</button>
+            <!-- <input type="submit" value="Submit" class="btn btn-success"> -->
+        </div>
+    </div>
+      </form>
+    </div>
+      
+  </div>
+</div>
+
+
+<hr>
+
+
+
+</main>
+{% endblock %}
+
+{% block footer_content %}
+<footer class="footer">
+    <div class="container" style="border-top: 1pt solid rgba(0, 0, 0, 0.1); text-align: center;">
+      <span class="text-muted">
+        &copy; OCRWeb Portal - CVIT, IIIT Hyderabad.
+      </span>
+    </div>
+</footer>
+{% endblock %}
+

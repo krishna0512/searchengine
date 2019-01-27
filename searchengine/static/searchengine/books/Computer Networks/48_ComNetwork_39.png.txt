@@ -1,0 +1,44 @@
+Sr't. I. I tustrs thr ttthMh rn: Nr&rsquo;tAbWth: Ks 1S
+search is an arms&rsquo; race because it is hard to reliably catch copyright infringement.
+Even your printer might be mistaken for a culprit (Piatek et al., 2008).
+Computer networks make it very easy to communicate. They also make it
+easy for the people who run the network to snoop on the traffic. This sets up con-
+flicts over issues such as employee rights versus employer rights. Vlany people
+read and write email at work. VMany employers have claimed the right to read and
+possibly censor employee messages, including messages sent from a home com-
+puter outside working hours. Not all employees agree with this, especially the lat-
+Icfr DtrI.
+Another conflict is centered around government versus citizen&rsquo;s rights. The
+FBI has installed systems at many Internet service providers to snoop on all in-
+coming and outgoing email for nuggets of interest. One early system was origi-
+nally called Carnivore, but bad publicity caused it to be renamed to the more
+innocent-sounding DCSI000 (Blaze and Bellovin, 2000; Sobel, 200l; and Zacks,
+200I ). The goal of such systems is to spy on millions of people in the hope of
+perhaps finding information about illegal activities. Unfortunately for the spies.
+the Fourth Amendment to the U.S. Constitution prohibits government searches
+without a search warrant, but the government often ignores it.
+Of course, the government does not have a monopoly on threatening people&rsquo;s
+privacy. The private sector does its bit too by profiling users. For example.
+small files called cookies that wWeb browsers store on users&rsquo; computers allow
+companies to track users&rsquo; activities in cyberspace and may also allow credit card
+numbers, social security numbers, and other confidential information to leak all
+over the Internet (Berghel, 200l ). Companies that provide wVWeb-based services
+may maintain large amounts of personal information about their users that allows
+them to study user activities directly. For example, Google can read your email
+and show you advertisements based on your interests if you use its email service.
+KGmail.
+A new twist with mobile devices is location privacy (Beresford and Stajano.
+2003). As part of the process of providing service to your mobile device the net-
+work operators learn where you are at different times of day. This allows them to
+track your movements. They may know which nightclub you frequent and which
+medical center you visit.
+Computer networks also offer the potential to increase privacy by sending
+anonymous messages. In some situations, this capability may be desirable.
+Beyond preventing companies from learning your habits, it provides, for example.
+a way for students, soldiers, employees, and citizens to blow the whistle on illegal
+behavior on the part of professors, officers, superiors, and politicians without fear
+of reprisals. On the other hand, in the United States and most other democracies.
+the law specifically permits an accused person the right to confront and challenge
+his accuser in court so anonymous accusations cannot be used as evidence.
+The Internet makes it possible to find information quickly, but a great deal of
+it is ill considered, misleading, or downright wrong. That medical advice you

@@ -1,0 +1,30 @@
+As we saw earlier, robots are now playing football and all sorts of other games too.basketball,
+cricket and many more. Of course, the games are scaled down, they are smaller versions of the actual
+games. The most significant of them is the RoboCup, founded in I997, a football tournament of robots
+across various size categories. The dream of RoboCup is to elevate artificial intelligence to a level
+that by the middle of the twenty -first century, a team of fully autonomous humanoid robot soecer
+players is able to win a soccer game, complying with the official rules of FIFA, against the winner of!
+the most recent World Cup.
+In I997, the first RoboCup games were held in Nagoya, Japan, with thirty -eight participating teams
+from eleven different countries.In the 2013 RoboCup in Eindhoven,Netherlands,410 teams
+participated from forty -five countries. The RoboCup is definitely catching on as a phenomenon.
+What are cyborgs?
+Cyborgs are often shown in cartoons as half human and half machine, But. in reality, there is no much
+thing as a cyborg.At best,we have artificial intelligent limbs attached to those who have lost their
+original limbs in an accident or to disease.Cyborgs exist only in fiction
+Robots are considered to have significant application in the field of
+surgery. Why?
+Robots are good at doing repetitive task with a remarkable degree of precision, which is exactly the
+skill needed in performing high-precisions surgeries.of course,they need to be programmed and
+guided by experienced doctors throughtout the process
+In the year 2000, the da vinci surgical system was invented,based on robotics,to perform complex
+surgeries such as those performed in the heart, lungs, eyes, etc. Such a robot has four robotic arms,
+three of them to hold tools like scissors, scalpels and so on. It Is operated from a console by a
+surgeon, and it reads the hands of the surgeon and almost mirrors his or her movements. It became an
+instant hit and, today, more than two lakh surgeries are conducted worldwide with it every y ear. The
+cost of such a system is about ten crores. The Raven Surgical System, which hit the market around
+2010, is much smaller and has a more compact design. It costs about one crore and performs almost
+the same functions as the da Vinci System
+How small can robots be?
+Very, very small indeed. In fact the emerging stream in robotics is that of nanorobots. Nanorobots
+will measure between 0.1 and 10 micrometres only. To get an idea of how small this is, take a

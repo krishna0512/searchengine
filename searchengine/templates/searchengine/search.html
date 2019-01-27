@@ -1,0 +1,120 @@
+{% extends "searchengine/base.html" %}
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'searchengine/css/design.css' %}">
+<link rel="stylesheet" href="{% static 'searchengine/css/style.css' %}">
+
+<script src="{% static 'searchengine/js/search.js' %}"></script>
+
+
+
+
+{% block main_content %}
+
+<div class="container mt-3">
+  <div class="row">
+    <div class="col text-center">
+      <form action="{% url 'searchengine:search' %}" method="GET">
+        <div class="row">
+        <div class="input-group input-group-sm col-md-8 first">
+          <!-- Book input -->
+            <input type="text" name="q" value="{{ q }}" class="form-control" placeholder="Search for book title or keyword" maxlength="255" id="id_title" autofocus="">
+        </div>
+        <!-- <div class="input-group col-md-3 second">
+          <div class="dropdown">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+        Select Language
+        </button>
+        <div class="dropdown-menu">
+          <a class="dropdown-item" id="english" selected>English</a>
+          <a class="dropdown-item" id="hindi">Hindi</a>
+        </div>
+      <input type="hidden" name="language" value="">  
+      </div>
+        </div> -->
+        <div class="input-group-append col-md-3 third">
+            <!-- Submit button -->
+            <button class="btn btn-outline-info" type="submit">Search</button>
+            <!-- <input type="submit" value="Submit" class="btn btn-success"> -->
+        </div>
+    </div>
+      </form>
+    </div>
+      
+  </div>
+</div>
+
+
+<hr>
+
+
+<div class="container mt-3">
+  <p> Searched Results </p>
+  {% if results %}
+  {% for res in results %}
+  <div class="container">
+    <div class="panel-group">
+      <div class="panel panel-default">
+        <div class="panel-body">
+        	<div class="row">
+        		<div class="col-md-3">
+              {% if res.book_pdf %}
+
+              <a href="{{ res.book_pdf.url }}">
+        			  <img class="image-res" src="{{ res.thumbnail.url }}" style="width:100%;height:" alt="BookFrontImage"/>
+              </a>
+              {% else %}
+                <img class="image-res" src="{{ res.thumbnail.url }}" style="width:100%;height:" alt="BookFrontImage" title="No PDF Available"/>
+              {% endif %}              
+        		</div>
+            <div class="col-md-9">
+              <h2>{{ res.title }}</h2>
+              <h3><i>{{ res.author }}</i></h3>
+                    <!-- the title of the book -->
+              <div class="row">
+
+            		<div class="col-md-6">
+
+            			<ul style="list-style-type: none;">
+                    
+            				
+            				<!-- <li><h2> {{ res.description }}</h2></li> -->
+            				<!-- <li><strong>About</strong> : {{ res.description }}</li> -->
+            				<!-- <li>ISBN code /h2></li> -->
+                    <!-- <li><strong>Published Date</strong> : {{ res.date }}</li> -->
+                    <li><strong>Editor/Translator</strong> : {{ res.editor }}</li>
+                    <li><strong>Publisher</strong> : {{ res.publisher }}</li>
+                    <li><strong>ISBN-13</strong> : {{ res.isbn }}</li>
+                    
+                    <li><strong>No. of pages</strong> : {{ res.numpages }}</li>
+                    <li><strong>Language</strong> : {{ res.language }}</li>
+                    <li><strong>Genre</strong> : {{ res.genre }}</li>
+                    <li><strong>Source</strong> : {{ res.source }}</li>
+            			</ul>
+            		</div>
+                <div class="col-md-6 aboutdes post_body">
+                    
+                    <!-- <a href="{{ res.description }}">read more</a> -->
+<!--                     <p><strong>Abstract</strong> : <a href="{{ res.description }}">read more</a></p>
+ -->                  <!-- </ul> -->
+                          <p><strong>Abstract</strong> : {{ res.description|safe|truncatewords:"50" }}</p>
+
+                </div>
+        	    </div>
+            </div>
+
+        </div>
+        	
+    	</div>
+      </div>
+    </div>
+  </div>
+
+    
+
+
+
+  {% endfor %}
+  {% endif %}
+</div>
+{% endblock %}

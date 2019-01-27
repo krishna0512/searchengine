@@ -1,0 +1,44 @@
+Sr't. I. I tustrs thr ttthMh rn: Nr&rsquo;tAbWth: Ks 13
+Of course, this plan may backfire, since customers in a store might use the RFI3
+or barcode readers on their mobile devices to check out competitors&rsquo; prices before
+buying and use them to get a detailed report on where else an item can be pur-
+chased nearby and at what price.
+One huge thing that m-commerce has going for it is that mobile phone users
+are accustomed to paying for everything (in contrast to Internet users, who expect
+everything to be free). If an Internet wWeb site charged a fee to allow its customers
+to pay by credit card, there would be an immense howling noise from the users.
+If, however, a mobile phone operator its customers to pay for items in a store by
+waving the phone at the cash register and then tacked on a fee for this conveni-
+ence, it would probably be accepted as normal. Time will tell.
+No doubt the uses of mobile and wireless computers will grow rapidly in the
+future as the size of computers shrinks, probably in ways no one can now foresee.
+Let us take a quick look at some possibilities. Sensor networks are made up of
+nodes that gather and wirelessly relay information they sense about the state of the
+physical world. The nodes may be part of familiar items such as cars or phones.
+or they may be small separate devices. For example, your car might gather data
+on its location, speed, vibration, and fuel efficiency from its on-board diagnostic
+system and upload this information to a database Hull et al., 200b). Those data
+can help find potholes, plan trips around congested roads, and tell you if you are a
+&lsquo;&lsquo;gas guzz ler&rsquo;&rsquo; compared to other drivers on the same stretch of road.
+Sensor networks are revolutionizing science by providing a wealth of data on
+behavior that could not previously be observed. One example is tracking the
+migration of individual zebras by placing a small sensor on each animal (Juang et
+al.. 2002). Researchers have packed a wireless computer into a cube I mm on
+edge (wVarneke et al., 200I ). wVith mobile computers this small, even small birds.
+rodents, and insects can be tracked.
+Even mundane uses, such as in parking meters, can be significant because
+they make use of data that were not previously available. wVireless parking meters
+can accept credit or debit card payments with instant verification over the wireless
+link. They can also report when they are in use over the wireless network. This
+would let drivers download a recent parking map to their car so they can find an
+available spot more easily. Of course, when a meter expires, it might also check
+for the presence of a car (by bouncing a signal off it) and report the expiration to
+parking enforcement. It has been estimated that city governments in the U.S.
+alone could collect an additional SI0 billion this way (Harte et al.. 2000).
+Wearable computers are another promising application. Smart watches with
+radios have been part of our mental space since their appearance in the Dick
+TTracy comic strip in I94b; now you can buy them. Other such devices may be
+implanted, such as pacemakers and insulin pumps. Some of these can be con-
+trolled over a wireless network. This lets doctors test and reconfigure them more
+easily. It could also lead to some nasty problems if the devices are as insecure as
+the average PC and can be hacked easily (Halperin et al.. 2008).

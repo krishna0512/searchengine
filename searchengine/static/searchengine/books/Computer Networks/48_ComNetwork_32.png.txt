@@ -1,0 +1,44 @@
+8 ICTRshbtutithN E"HAh. !
+Peer-to-peer communication is often used to share music and videos. It really
+hit the big time around 2000 with a music sharing service called Napster that was
+shut down after what was probably the biggest copyright infringement case in all
+of recorded history (Lam and Tan, 200l; and Vlacedonia, 2000). Legal applica-
+tions for peer-to-peer communication also exist. These include fans sharing pub-
+lic domain music, families sharing photos and movies, and users downloading
+public software packages. In fact, one of the most popular Internet applications
+of all, email, is inherently peer-to-peer. This form of communication is likely to
+grow considerably in the future.
+All of the above applications involve interactions between a person and a re-
+mote database full of information. The second broad category of network use is
+person-to-person communication, basically the 2I st century&rsquo;s answer to the I 9th
+century&rsquo;s telephone. -mail is already used on a daily basis by millions of people
+all over the world and its use is growing rapidly. It already routinely contains
+audio and video as well as text and pictures. Smell may take a while.
+Any teenager worth his or her salt is addicted to instant messaging. This
+facility, derived from the UNIX talk program in use since around I970, allows two
+people to type messages at each other in real time. There are multi-person mes-
+saging services too, such as the ITwitter service that lets people send short text
+messages called &lsquo;&lsquo;tweets&rsquo;&rsquo; to their circle of friends or other willing audiences.
+The Internet can be used by applications to carry audio (e.g., Internet radio
+stations) and video (e.g.. YouT&rsquo;ube). Besides being a cheap way to call to distant
+friends, these applications can provide rich experiences such as telelearning.
+meaning attending 8 A.M. classes without the inconvenience of having to get out
+of bed first. In the long run, the use of networks to enhance human-to-human
+communication may prove more important than any of the others. It may become
+hugely important to people who are geographically challenged, giving them the
+same access to services as people living in the middle of a big city.
+Between person-to-person communications and accessing information are
+social network applications. Here, the flow of information is driven by the rela-
+tionships that people declare between each other. One of the most popular social
+networking sites is Facehook. It lets people update their personal profiles and
+shares the updates with other people who they have declared to be their friends.
+Other social networking applications can make introductions via friends of
+friends, send news messages to friends such as TTwitter above, and much more.
+Even more loosely, groups of people can work together to create content. A
+wiki, for example, is a collaborative wVeb site that the members of a community
+edit. The most famous wiki is the Vikipedia, an encyclopedia anyone can edit.
+but there are thousands ofr other wikis.
+Our third category is electronic commerce in the broadest sense of the term.
+Home shopping is already popular and enables users to inspect the online catalogs
+of thousands of companies. Some of these catalogs are interactive, showing pro-
+ducts from different viewpoints and in configurations that can be personalized.

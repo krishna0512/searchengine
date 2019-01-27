@@ -1,0 +1,33 @@
+Now, for every action and its subsequent reaction, neurons have a major role to play. They act as
+&lsquo;messengers&rsquo;. For instance, if you touch a hot surface, the neurons at your fingertips pass on the
+information to the nearby neurons and this continues till the information ultimately reaches the brain
+The brain then processes this information and generates a command for your hand muscles to move
+the finger away. This again happens through the same channel of neurons. Neurons have special sites
+called synapses, from which information is transmitted from one neuron to another. Imagine a synapse
+as a small gap with transmitters, much like an electrical outlet, where another neuron can plug into its
+synapse, which acts as a receptor. One neuron can have a large number of such synapses, so it can
+communicate in all directions. The human brain has about 100 billion neurons and quadrillion
+synapses. This makes understanding the human brain a truly complicated assignment
+Coming back to Professor Kasthuri and his presentation at the Brain Research Center, we were made
+to sit in front of a large screen inside the meeting room. Before starting, the professor clarified to us,
+&lsquo;Much of our work is currently limited to understanding the brain of a rat. It is far less complicated
+and hence relatively easier to understand. Once we have achieved this, we hope to replicate the same
+for the human brain
+Professor Kasthuri then showed us a picture of a very special equipment-a nano knife made of
+diamond. He said. 'We take the brain of a dead rat. Then we use the nano knife to cut slices less than
+30 nanometres long. In this way, a single brain generates hundreds of thousands of slices.&rsquo;
+He continued, 'But that is not the difficult task. We cam make about 2500 slices in a single day. The
+real task begins after this Each of these slices is labelled and then placed under an electron
+microscope, We store this as a digital image in a computer.'
+Can you guess how large this data from a single rat brain would be? It would need more than one
+petabyte of storage to preserve digital images of the rat&rsquo;s brain. This is equal to storing about 40
+billion photos! Now, once these photographs are ready, Professor Kasthuri and his team map specific
+neurons in these images to observe their pattern and dynamics. It is like a colour-coded map showing
+neurons in the brain. In this way, they can study any specific neuron in a rat&rsquo;s brain
+When we went back to the hotel after this meeting, our heads were full of Ideas and questions. We
+were thinking what if we were to scale Professor Kasthuri&rsquo;s experiment to understand the human
+mind. We then spent some time analysing the neural patterns of different animals.The results are
+shown below
+NAME OF SPECIES          TOTAL NUMBER OF NEURONS IN THE ENTIRE NERVOUS SYSTEM  
+Roundworm                                                                                                                       300
+Jellyfish                                                                                                                               800
