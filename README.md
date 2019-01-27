@@ -6,7 +6,8 @@ Search Engine is a local project for OCR portal (IIITH) , collection of data of 
 
 
 First step is to download elasticsearch and then django.
-Elasticsearch is an open source search engine which is known for its fast indexing and ability to retrieve ifferent languages like urdu , hindi , german , french , punjabi etc...
+Main motto was to integrate the effective search by django and elasticsearch together.
+Elasticsearch is an open source search engine which is known for its fast indexing , page ranking and ability to retrieve different languages like urdu , hindi , german , french , punjabi etc...
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
